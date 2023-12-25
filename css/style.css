@@ -557,7 +557,9 @@ footer button:hover {
   font-size: 13px;
   text-align: center;
 }
-
+.legal p a {
+  color: #000;
+}
 
 /* Responsive Style*/
 
